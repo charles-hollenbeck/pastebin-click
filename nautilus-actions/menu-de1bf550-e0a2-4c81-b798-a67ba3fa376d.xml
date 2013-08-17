@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gconfentryfile>
+  <entrylist base="/apps/nautilus-actions/configurations/de1bf550-e0a2-4c81-b798-a67ba3fa376d">
+    <entry>
+      <key>type</key>
+      <value>
+        <string>Menu</string>
+      </value>
+    </entry>
+    <entry>
+      <key>items</key>
+      <value>
+        <list type="string">
+          <value>
+            <string>783bc58e-6e1a-4602-815c-a1a28bacf58e</string>
+          </value>
+        </list>
+      </value>
+    </entry>
+    <entry>
+      <key>label</key>
+      <value>
+        <string>Share</string>
+      </value>
+    </entry>
+    <entry>
+      <key>icon</key>
+      <value>
+        <string>/home/charles/Pictures/icons/share.png</string>
+      </value>
+    </entry>
+  </entrylist>
+</gconfentryfile>
